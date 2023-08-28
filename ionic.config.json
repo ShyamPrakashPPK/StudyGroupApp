@@ -1,0 +1,7 @@
+{
+  "name": "StudyGroupMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
